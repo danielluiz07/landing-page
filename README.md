@@ -1,16 +1,94 @@
-# React + Vite
+# 🚀 Landing Page SaaS - Modern & Responsive
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Project Preview](./public/preview.png)
 
-Currently, two official plugins are available:
+> Uma Landing Page de alta conversão desenvolvida com React, focada em performance, design responsivo e animações fluidas. Ideal para produtos digitais, startups e serviços SaaS.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Demo
+### [Clique aqui para ver o projeto online](https://landing-page-doisl.vercel.app)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tecnologias Utilizadas
 
-## Expanding the ESLint configuration
+Este projeto foi desenvolvido utilizando as melhores práticas e ferramentas modernas do ecossistema React:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+-   **[React](https://reactjs.org/)** (Vite) - Biblioteca para construção da interface.
+-   **[Tailwind CSS](https://tailwindcss.com/)** - Framework de estilização utilitário para design rápido e responsivo.
+-   **[Framer Motion](https://www.framer.com/motion/)** - Biblioteca poderosa para animações complexas e suaves (scroll reveal, fade-ins).
+-   **[Lucide React](https://lucide.dev/)** - Ícones leves e customizáveis.
+
+---
+
+## ✨ Funcionalidades
+
+-   ✅ **Design Totalmente Responsivo:** Layout adaptável para Mobile, Tablet e Desktop.
+-   ✅ **Menu Mobile Interativo:** Navegação lateral com overlay e animações.
+-   ✅ **Animações de Entrada:** Elementos surgem suavemente ao carregar ou rolar a página.
+-   ✅ **Seções Estratégicas:**
+    -   *Hero Section* 
+    -   *Grid de Recursos*
+    -   *Prova Social* 
+    -   *Tabela de Preços* 
+-   ✅ **Performance:** Carregamento ultra-rápido graças ao Vite.
+
+---
+
+## 🚀 Como rodar o projeto localmente
+
+Siga os passos abaixo para baixar e configurar o projeto na sua máquina:
+
+### Pré-requisitos
+Você precisa ter o [Node.js](https://nodejs.org/) instalado.
+
+### Passo a passo
+
+1.  **Clone o repositório**
+    ```bash
+    git clone [https://github.com/SEU_USUARIO/NOME_DO_REPO.git](https://github.com/SEU_USUARIO/NOME_DO_REPO.git)
+    ```
+
+2.  **Entre na pasta do projeto**
+    ```bash
+    cd NOME_DO_REPO
+    ```
+
+3.  **Instale as dependências**
+    ```bash
+    npm install
+    ```
+
+4.  **Rode o servidor de desenvolvimento**
+    ```bash
+    npm run dev
+    ```
+
+5.  **Acesse no navegador**
+    O terminal irá mostrar o link local, geralmente: `http://localhost:5173`
+
+---
+
+## 📂 Estrutura de Pastas
+
+## 📂 Estrutura de Pastas
+
+```text
+meuprojetoreact/
+  ├── public/
+  │   └── icone.ico
+  ├── src/
+  │   ├── assets/
+  │   ├── App.jsx
+  │   ├── index.css
+  │   └── main.jsx
+  ├── .gitignore
+  ├── eslint.config.js
+  ├── index.html
+  ├── package.json
+  ├── README.md
+  └── vite.config.js
+```
+
+## 👨‍💻 Autor
+
+Desenvolvido por **Daniel Luiz (Dois L)**
