@@ -70,8 +70,6 @@ Você precisa ter o [Node.js](https://nodejs.org/) instalado.
 
 ## 📂 Estrutura de Pastas
 
-## 📂 Estrutura de Pastas
-
 ```text
 meuprojetoreact/
   ├── public/
